@@ -1,5 +1,11 @@
 hi guys
 
+<<<<<<< HEAD
 heyyygit 
 
 hello everyone
+=======
+heyyy
+
+huh   ... ?
+>>>>>>> 17a4bf1d8dd5c6e0741e3e667a7a6bf996a3a132
